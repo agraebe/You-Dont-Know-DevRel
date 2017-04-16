@@ -55,4 +55,20 @@ Getting DevRel right is hard. It requires carefully hiring, focus on thought lea
 
 ## So, there are advocates and evangelists... Why?
 
+## The hard thing about scaled DevRel
 
+
+## My product launches only in the US, why should DevRel advocate globally?
+Often, managers will make decisions to launch a product only in a specific area. Naturally, the questions comes up why DevRel would do advocacy globally. Can't we just focus on the developer communities in the US? There are pros, but let me start with the counter-arguments:
+- developer communities are not bound to locality. Meeting developers locally is one thing, but developers are more connected virtually. The talk you gave in Italy might get mentioned in hackernews and spread globally
+- you will eventually offer the product globally. Event preperation, CFP applications, and organizational efforts require upfront planning for a couple of months. Can you ensure you don't have plans to do live globally in the next year?
+- impactful events are limited. There's a reason for thousands of developer events every year. Many of them focus on very specific topics. Many invite only very targeted audiences. Careful evaluattion of all the events will show you that there are only a handful impactful events you could attend
+- developers want to meet thought leaders no matter where. If you have Developer Advocates on your team that established thought leadership in a specific area, they will attract others. It might very well be that US developers meet you at a conference in Italy
+- Events alks should be more about the concepts and broader ideas and not the product itself. Building up mindshare for a broader concept is like broadening the market compared to the market share. The small share that your product can get will naturally be bigger
+- Event talks can be recorded and published online, making it available to a global audience effectively
+- The feedback you can collect from a global audience can and should influence your product roadmap. It's market exploration for your product before it's launched
+
+And here are the pros:
+- travel costs might be very expensive and hard to justify unless the organizers cover something
+- talking about a product that is not available to your target audience can backfire
+- short-term outcomes will be hard to capture
